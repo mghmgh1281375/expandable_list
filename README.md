@@ -1,2 +1,2 @@
-# expandable_list
+# Expandable list
 Android expandable list without inside scroll
